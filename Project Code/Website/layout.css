@@ -1,0 +1,187 @@
+/* CSS for the page's format. Adjusts format and colors to EvCC standards. Adjusts formats for
+ forms and buttons */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body
+{
+	font-family: "Arial Narrow";
+	color:black;
+	background-color: white;
+	margin: 0;
+}
+
+h1
+{
+	background-color: #c60c0c;
+	color: white;
+	padding-top: 30px;
+	text-align: left;
+	font-family: "Arial Narrow";
+	margin: 0;
+	padding-left: 200px;
+	font-size: 50px;
+}
+
+h2
+{
+	background-color: #c60c0c;
+	color: white;
+	padding-bottom: 30px;
+	text-align: left;
+	font-family: "Arial Narrow";
+	margin: 0;
+	padding-left: 200px;
+	font-size: 20px;
+}
+
+.intro
+{
+	padding-left: 200px;
+	padding-bottom: 20px;
+}
+
+.content {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+.navbar
+{
+	margin-top: 0;
+	margin-bottom: 30px;
+	overflow: hidden;
+	background-color: #a71919;
+	padding-left: 200px;
+}
+
+.navbar a 
+{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.navbar a:hover 
+{
+	background-color: #990000;
+	color: white;
+	text-decoration: underline;
+}
+
+.footer {
+	font-family: "Arial Narrow";
+	background-color: #c60c0c;
+	color: white;
+	text-align: left;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding-left: 200px;
+}
+
+* 
+{
+	box-sizing: border-box;
+}
+
+input[type=text], select, textarea
+{
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	resize: vertical;
+}
+
+
+input[type=submit]
+{
+	background-color: #009fdb;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	float: right;
+	margin: 10px;
+}
+
+input[type=submit]:hover 
+{
+	background-color: #006ca8;
+}
+
+input[type=reset] 
+{
+	background-color: #009fdb;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	float: right;
+	margin: 10px;
+}
+
+input[type=reset]:hover 
+{
+	background-color: #006ca8;
+}
+
+.form 
+{
+	margin-left: 200px;
+	margin-right: 200px;
+	border-radius: 5px;
+	background-color: #747678;
+	margin-bottom: 100px;
+	color: white;
+}
+
+.prompt 
+{
+	float: left;
+	width: 15%;
+	margin-top: 6px;
+	margin-left: 10px;
+}
+
+.inputarea
+{
+	float: left;
+	width: 70%;
+	margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after 
+{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) 
+{
+	.prompt, .inputarea, input[type=submit] 
+	{
+	    width: 100%;
+	    margin-top: 0;
+	}
+}
+
+table 
+{
+    border-collapse: separate;
+    border-spacing: 2em;
+}
