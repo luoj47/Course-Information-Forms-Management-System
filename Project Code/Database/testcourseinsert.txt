@@ -1,0 +1,222 @@
+INSERT INTO courses
+
+
+(coursePrefix, catalogNumber, lastUpdated, institution, campus, academicCareer, 
+academicGroups, adminUnit, academicOrg, effectiveQuarter, 
+subject, 
+courseName, courseDesc, gradingScheme, componentsLecture, 
+componentsLab, componentHoursLecture, componentHoursLab, 
+
+units, faUnits, courseChallenge, repeatableCredit, CIP, 
+attributes, enrollReq, courseTopic, courseFee, studentLrnObj, 
+coreLrnObj, 
+prgrmSpecOutcomes) 
+
+
+
+VALUES 
+
+('BIOL', '130', '2018-12-07 02:07:47', 'WA220', 'Main', 'UGRD', 'Science Division', 'GA', 
+'Physical Sciences', 'Spring 2018', 'Biology', 'Marine Biology', 
+
+'Testing BIOL 130 2018', 
+'Decimal', 1, 1, 40, 20, 2, 1, 1, 1, '32.0012', 4, 
+'Testing BIOL 130 2018', 'Testing BIOL 130 2018', 15.00, 
+'Testing BIOL 130 2018', 'Testing BIOL 130 2018', 'Testing BIOL 130 2018');
+
+
+
+INSERT INTO courses
+
+
+(coursePrefix, catalogNumber, lastUpdated, institution, campus, academicCareer, 
+academicGroups, adminUnit, academicOrg, effectiveQuarter, 
+subject, 
+courseName, courseDesc, gradingScheme, componentsLecture, 
+componentsLab, componentHoursLecture, componentHoursLab, 
+
+units, faUnits, courseChallenge, repeatableCredit, CIP, 
+attributes, enrollReq, courseTopic, courseFee, studentLrnObj, 
+coreLrnObj, 
+prgrmSpecOutcomes) 
+
+
+
+VALUES 
+
+('BIOL', '130', '2017-12-07 02:07:47', 'WA220', 'Main', 'UGRD', 'Science Division', 'GA', 
+'Physical Sciences', 'Spring 2018', 'Biology', 'Marine Biology', 
+
+'Testing BIOL 130', 
+'Decimal', 1, 1, 40, 20, 2, 1, 1, 1, '32.0012', 4, 
+'Testing BIOL 130', 'Testing BIOL 130', 15.00, 
+'Testing BIOL 130', 'Testing BIOL 130', 'Testing BIOL 130');
+
+
+INSERT INTO courses
+
+
+(coursePrefix, catalogNumber, lastUpdated, institution, campus, academicCareer, 
+academicGroups, adminUnit, academicOrg, effectiveQuarter, 
+subject, 
+courseName, courseDesc, gradingScheme, componentsLecture, 
+componentsLab, componentHoursLecture, componentHoursLab, 
+
+units, faUnits, courseChallenge, repeatableCredit, CIP, 
+attributes, enrollReq, courseTopic, courseFee, studentLrnObj, 
+coreLrnObj, 
+prgrmSpecOutcomes) 
+
+
+
+VALUES 
+
+('BIOL', '130', '2016-12-07 02:07:47', 'WA220', 'Main', 'UGRD', 'Science Division', 'GA', 
+'Physical Sciences', 'Spring 2018', 'Biology', 'Marine Biology', 
+
+'Testing BIOL 130', 
+'Decimal', 1, 1, 40, 20, 2, 1, 1, 1, '32.0012', 4, 
+'Testing BIOL 130', 'Testing BIOL 130', 15.00, 
+'Testing BIOL 130', 'Testing BIOL 130', 'Testing BIOL 130');
+
+
+
+
+INSERT INTO courses
+
+
+(coursePrefix, catalogNumber, lastUpdated, institution, campus, academicCareer, 
+academicGroups, adminUnit, academicOrg, effectiveQuarter, 
+subject, 
+courseName, courseDesc, gradingScheme, componentsLecture, 
+componentsLab, componentHoursLecture, componentHoursLab, 
+
+units, faUnits, courseChallenge, repeatableCredit, CIP, 
+attributes, enrollReq, courseTopic, courseFee, studentLrnObj, 
+coreLrnObj, 
+prgrmSpecOutcomes) 
+
+
+
+VALUES 
+
+('BIOL', '300', '2018-12-07 02:07:47', 'WA220', 'Main', 'UWB', 'Science Division', 'WA', 
+'Chemical Sciences', 'Fall 2018', 'Biology', 'Biochemistry', 
+
+'Testing BIOL 300 2018', 
+'Decimal', 1, 1, 40, 20, 2, 1, 1, 1, '32.0012', 4, 
+'Testing BIOL 300 2018', 'Testing BIOL 300 2018', 15.00, 
+'Testing BIOL 300 2018', 'Testing BIOL 300 2018', 'Testing BIOL 300 2018');
+
+
+
+INSERT INTO courses
+
+
+(coursePrefix, catalogNumber, lastUpdated, institution, campus, academicCareer, 
+academicGroups, adminUnit, academicOrg, effectiveQuarter, 
+subject, 
+courseName, courseDesc, gradingScheme, componentsLecture, 
+componentsLab, componentHoursLecture, componentHoursLab, 
+
+units, faUnits, courseChallenge, repeatableCredit, CIP, 
+attributes, enrollReq, courseTopic, courseFee, studentLrnObj, 
+coreLrnObj, 
+prgrmSpecOutcomes) 
+
+
+
+VALUES 
+
+('BIOL', '300', '2017-12-07 02:07:47', 'WA220', 'Main', 'UWB', 'Science Division', 'WA', 
+'Chemical Sciences', 'Fall 2018', 'Biology', 'Biochemistry', 
+
+'Testing BIOL 300', 
+'Decimal', 1, 1, 40, 20, 2, 1, 1, 1, '32.0012', 4, 
+'Testing BIOL 300', 'Testing BIOL 300', 15.00, 
+'Testing BIOL 300', 'Testing BIOL 300', 'Testing BIOL 300');
+
+
+INSERT INTO courses
+
+
+(coursePrefix, catalogNumber, lastUpdated, institution, campus, academicCareer, 
+academicGroups, adminUnit, academicOrg, effectiveQuarter, 
+subject, 
+courseName, courseDesc, gradingScheme, componentsLecture, 
+componentsLab, componentHoursLecture, componentHoursLab, 
+
+units, faUnits, courseChallenge, repeatableCredit, CIP, 
+attributes, enrollReq, courseTopic, courseFee, studentLrnObj, 
+coreLrnObj, 
+prgrmSpecOutcomes) 
+
+
+
+VALUES 
+
+('ENGL', '110', '2018-12-07 02:07:47', 'WA220', 'Main', 'EVCC', 'English Division', 'CA', 
+'English Department', 'Fall 2018', 'English', 'Writing', 
+
+'Testing ENGL 110', 
+'Decimal', 1, 1, 40, 20, 2, 1, 1, 1, '32.0012', 4, 
+'Testing ENGL 110', 'Testing ENGL 110', 15.00, 
+'Testing ENGL 110', 'Testing ENGL 110', 'Testing ENGL 110');
+
+
+
+INSERT INTO courses
+
+
+(coursePrefix, catalogNumber, lastUpdated, institution, campus, academicCareer, 
+academicGroups, adminUnit, academicOrg, effectiveQuarter, 
+subject, 
+courseName, courseDesc, gradingScheme, componentsLecture, 
+componentsLab, componentHoursLecture, componentHoursLab, 
+
+units, faUnits, courseChallenge, repeatableCredit, CIP, 
+attributes, enrollReq, courseTopic, courseFee, studentLrnObj, 
+coreLrnObj, 
+prgrmSpecOutcomes) 
+
+
+
+VALUES 
+
+('MATH', '110', '2018-12-07 02:07:47', 'WA220', 'Main', 'UCLA', 'Math Division', 'SA', 
+'Math Department', 'Summer 2018', 'Math', 'Calculus', 
+
+'Testing MATH 110', 
+'Decimal', 1, 1, 40, 20, 2, 1, 1, 1, '32.0012', 4, 
+'Testing MATH 110', 'Testing MATH 110', 15.00, 
+'Testing MATH 110', 'Testing MATH 110', 'Testing MATH 110');
+
+
+
+INSERT INTO courses
+
+
+(coursePrefix, catalogNumber, lastUpdated, institution, campus, academicCareer, 
+academicGroups, adminUnit, academicOrg, effectiveQuarter, 
+subject, 
+courseName, courseDesc, gradingScheme, componentsLecture, 
+componentsLab, componentHoursLecture, componentHoursLab, 
+
+units, faUnits, courseChallenge, repeatableCredit, CIP, 
+attributes, enrollReq, courseTopic, courseFee, studentLrnObj, 
+coreLrnObj, 
+prgrmSpecOutcomes) 
+
+
+
+VALUES 
+
+('CSE', '142', '2018-12-07 02:07:47', 'WA220', 'Main', 'UWS', 'CS Division', 'BS', 
+'CS Department', 'Winter 2018', 'Computer Science', 'Programming', 
+
+'Testing CSE 142', 
+'Decimal', 1, 1, 40, 20, 2, 1, 1, 1, '32.0012', 4, 
+'Testing CSE 142', 'Testing CSE 142', 15.00, 
+'Testing CSE 142', 'Testing CSE 142', 'Testing CSE 142');
+
+
